@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dag/static/css/main.61d0a6bd.chunk.css",
+    "main.js": "/dag/static/js/main.e09d1606.chunk.js",
+    "main.js.map": "/dag/static/js/main.e09d1606.chunk.js.map",
+    "runtime-main.js": "/dag/static/js/runtime-main.98954cd3.js",
+    "runtime-main.js.map": "/dag/static/js/runtime-main.98954cd3.js.map",
+    "static/js/2.656cb86e.chunk.js": "/dag/static/js/2.656cb86e.chunk.js",
+    "static/js/2.656cb86e.chunk.js.map": "/dag/static/js/2.656cb86e.chunk.js.map",
+    "index.html": "/dag/index.html",
+    "static/css/main.61d0a6bd.chunk.css.map": "/dag/static/css/main.61d0a6bd.chunk.css.map",
+    "static/js/2.656cb86e.chunk.js.LICENSE.txt": "/dag/static/js/2.656cb86e.chunk.js.LICENSE.txt",
+    "static/media/svg-1.49a288f1.svg": "/dag/static/media/svg-1.49a288f1.svg",
+    "static/media/svg-2.20750a9d.svg": "/dag/static/media/svg-2.20750a9d.svg",
+    "static/media/svg-3.b782a945.svg": "/dag/static/media/svg-3.b782a945.svg",
+    "static/media/video.862c9b48.mp4": "/dag/static/media/video.862c9b48.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98954cd3.js",
+    "static/js/2.656cb86e.chunk.js",
+    "static/css/main.61d0a6bd.chunk.css",
+    "static/js/main.e09d1606.chunk.js"
+  ]
+}
